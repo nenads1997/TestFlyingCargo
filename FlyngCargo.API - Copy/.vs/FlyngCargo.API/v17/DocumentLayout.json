@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E71837-196F-4246-8919-E9682B8E89A8}|..\\Repository\\Repository.csproj|c:\\users\\neca\\source\\repos\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\flyngcargo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:flyngcargo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|c:\\users\\neca\\source\\repos\\flyngcargo.api - copy\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F51799-D233-42A1-8CAC-19974F227E3C}|FlyngCargo.API.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\servicecontracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\servicecontracts\\iproductservicegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\productservicegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\servicecontracts\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074DDE84-0EB9-44FD-ADDF-35FA98F50E15}|..\\Services\\Services.csproj|c:\\users\\neca\\source\\repos\\services\\helpers\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E040673-957A-429C-B7F7-54FB8937BDC0}|..\\GUI\\GUI.csproj|C:\\Users\\Neca\\source\\repos\\GUI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E040673-957A-429C-B7F7-54FB8937BDC0}|..\\GUI\\GUI.csproj|c:\\users\\neca\\source\\repos\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E040673-957A-429C-B7F7-54FB8937BDC0}|..\\GUI\\GUI.csproj|c:\\users\\neca\\source\\repos\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E71837-196F-4246-8919-E9682B8E89A8}|..\\Repository\\Repository.csproj|c:\\users\\neca\\source\\repos\\repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E71837-196F-4246-8919-E9682B8E89A8}|..\\Repository\\Repository.csproj|c:\\users\\neca\\source\\repos\\repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E040673-957A-429C-B7F7-54FB8937BDC0}|..\\GUI\\GUI.csproj|c:\\users\\neca\\source\\repos\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A45E481-715B-4404-92F0-A2EC84CE6A3B}|..\\Entities\\Entities.csproj|c:\\users\\neca\\source\\repos\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A45E481-715B-4404-92F0-A2EC84CE6A3B}|..\\Entities\\Entities.csproj|c:\\users\\neca\\source\\repos\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A45E481-715B-4404-92F0-A2EC84CE6A3B}|..\\Entities\\Entities.csproj|c:\\users\\neca\\source\\repos\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E71837-196F-4246-8919-E9682B8E89A8}|..\\Repository\\Repository.csproj|c:\\users\\neca\\source\\repos\\repository\\repositorycontract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\Services\\ProductService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAASwFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:01:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API radi valjda\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\FlyngCargo.API radi valjda\\GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:28:27.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\GUI\\Form1.cs",
+              "RelativeToolTip": "..\\GUI\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:35:27.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "..\\GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\GUI\\GUI.csproj",
+              "RelativeToolTip": "..\\GUI\\GUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T14:37:00.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:54:39.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:55:32.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductServiceGUI.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\ServiceContracts\\IProductServiceGUI.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ServiceContracts\\IProductServiceGUI.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\ServiceContracts\\IProductServiceGUI.cs",
+              "RelativeToolTip": "..\\Services\\ServiceContracts\\IProductServiceGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:46:34.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyngCargo.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\FlyngCargo.API.csproj",
+              "RelativeDocumentMoniker": "FlyngCargo.API.csproj",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\FlyngCargo.API.csproj",
+              "RelativeToolTip": "FlyngCargo.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T09:23:15.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:00:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:05:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\ServiceContracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ServiceContracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\ServiceContracts\\IProductService.cs",
+              "RelativeToolTip": "..\\Services\\ServiceContracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:53:59.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:59:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductServiceGUI.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\ProductServiceGUI.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ProductServiceGUI.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\ProductServiceGUI.cs",
+              "RelativeToolTip": "..\\Services\\ProductServiceGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:47:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T09:07:40.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\GUI\\Program.cs",
+              "RelativeToolTip": "..\\GUI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:45:11.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T17:44:18.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T09:26:54.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\ServiceContracts\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ServiceContracts\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\ServiceContracts\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "..\\Services\\ServiceContracts\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:59:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\Services.csproj",
+              "RelativeToolTip": "..\\Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T08:45:57.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\FlyngCargo.API - Copy\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:58:15.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "..\\Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:50:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Services\\Helpers\\IValidationService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Helpers\\IValidationService.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Services\\Helpers\\IValidationService.cs",
+              "RelativeToolTip": "..\\Services\\Helpers\\IValidationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:12:04.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "..\\Entities\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:29:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:27:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:25:04.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Neca\\source\\repos\\Repository\\RepositoryContract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\RepositoryContract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Neca\\source\\repos\\Repository\\RepositoryContract\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Repository\\RepositoryContract\\IProductRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:04:36.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
